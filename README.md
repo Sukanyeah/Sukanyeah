@@ -28,7 +28,3 @@
 - 🌱 learning Docker & Shell scripting (Both are SO COOL!)
 - 📚 Reading: **"The 15 Commitments of Conscious Leadership"**
 - 🎮 playing Call of Duty 🔫, Cyberpunk 2077 🤖 and Resident Evil 🧟
-
-<h2>Random</h2>
-
-- 🎞️ I have worked on an [Indian Movie](https://www.imdb.com/title/tt14266662/) recently
