@@ -27,4 +27,4 @@
 - 🔭 coding automation projects & relaunching my personal website.
 - 🌱 learning Docker & Shell scripting (Both are SO COOL!)
 - 📚 Reading: **"The 15 Commitments of Conscious Leadership"**
-- 🎮 playing Call of Duty 🔫, Cyberpunk 2077 🤖 and Resident Evil 🧟
+- 🎮 playing Call of Duty: Vanguard 🔫, Forza Horizon 5 🤖 and Resident Evil 🧟
