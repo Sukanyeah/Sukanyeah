@@ -15,7 +15,7 @@
   <li><b>📣 Languages:</b> English, Malayalam, Kannada, Tamil & Hindi</li>
 </ul>
 
-<p>I'm Sukanyeah Krishna (<i>aka SuKri</i>) a web developer diving into the world of Cinema. I'm a Web Developer at the Esport.al Team, 
+<p>I'm Sukanyeah Krishna, a Web Developer at the Esport.al Team, 
   where I support gamers to build and grow their own communities through <a href="https://esport.al/unite">🚩 Esportal Gamers Unite Program</a>. I'm passionate about building opportunities for gamers, bridges
    between different communities, and helping people from diverse backgrounds to code.
 </p>
