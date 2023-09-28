@@ -3,7 +3,7 @@
 <p>Data Science & Machine Learning Graduate, IIT Madras</p>
 <p>Web Developer from Bengaluru, India (⏱️ since 2012)</p>
 
-<h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> About me </h2>
+<h2>About me </h2>
 
 <div >
   <img src="https://avatars.githubusercontent.com/u/21282402?s=460&u=9bba828da93873603a83982a5c1f27218fd3e276&v=4" align="right" width="300">
@@ -12,7 +12,7 @@
   <li><b>👧 Name: </b> Sukanyeah Krishna</li>
   <li><b>🌈 Pronouns:</b>  She/Her</li>
   <li><b>🧭 Location:</b> Bengaluru, 🇮🇳</li>
-  <li><b>💼 Job: </b>Web Developer @ <a href="https://esport.al">Esport.al</a></li>
+  <li><b>💼 Creator: </b><a href="https://esport.al">Esport.al</a></li>
   <li><b>📣 Languages:</b> English, Malayalam, Kannada, Tamil & Hindi</li>
 </ul>
 
@@ -23,7 +23,7 @@
 
 </div>
 
-<h2><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="80"> I'm currently ...</h2>
+<h2> I'm currently ...</h2>
 
 - 🔭 coding automation projects & relaunching my personal website.
 - 🌱 learning Vite & Kotlin (Both are SO COOL!)
