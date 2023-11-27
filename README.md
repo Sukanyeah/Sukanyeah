@@ -13,7 +13,7 @@
   <li><b>🌈 Pronouns:</b>  She/Her</li>
   <li><b>🧭 Location:</b> Bengaluru, 🇮🇳</li>
   <li><b>💼 Creator: </b><a href="https://esportal.com/">Esport.al</a></li>
-  <li><b>📣 Languages:</b> English, Malayalam, Kannada, Tamil & Hindi</li>
+  <li><b>📣 Languages:</b> English, Malayalam, Tulu, Sanskrit, Marathi, Gujarati, Kannada, Tamil & Hindi</li>
 </ul>
 
 <p>I'm Sukanyeah Krishna, a Web Developer at the Esport.al Team, 
