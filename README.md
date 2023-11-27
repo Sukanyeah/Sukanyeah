@@ -12,7 +12,7 @@
   <li><b>👧 Name: </b> Sukanyeah Krishna</li>
   <li><b>🌈 Pronouns:</b>  She/Her</li>
   <li><b>🧭 Location:</b> Bengaluru, 🇮🇳</li>
-  <li><b>💼 Creator: </b><a href="https://esport.al">Esport.al</a></li>
+  <li><b>💼 Creator: </b><a href="https://esportal.com/">Esport.al</a></li>
   <li><b>📣 Languages:</b> English, Malayalam, Kannada, Tamil & Hindi</li>
 </ul>
 
