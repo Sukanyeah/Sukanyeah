@@ -1,6 +1,7 @@
 ![](https://d15a02u2vz5xwk.cloudfront.net/dK0qQjq8nQz7fWmL/logos/sukanyeah_fly.svg)
 <h1>Hi, I’m @Sukanyeah</h1>
 <a href="https://www.instagram.com/Sukanyeah"><img src="https://img.shields.io/badge/sukanyeah_%20-%238a3ab9.svg?&style=for-the-badge&logo=Instagram&logoColor=white"></a><a href="https://twitter.com/Sukanyeah"><img src="https://img.shields.io/badge/sukanyeah_%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"></a><a href="https://www.facebook.com/Sukanyeah"><img src="https://img.shields.io/badge/sukanyeah_%20-%234267B2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"></a><a href="https://www.sukanyeah.com/"><img src="https://img.shields.io/badge/sukanyeah.com_%20-%23ff69b4.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white"></a>
+![](https://sukanyeah.com/git)
 <p>Data Science & Machine Learning Graduate, IIT Madras</p>
 <p>Web Developer from Bengaluru, India (⏱️ since 2012)</p>
 
