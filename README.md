@@ -2,7 +2,7 @@
 <h1>Hi, I’m @Sukanyeah</h1>
 <a href="https://www.linkedin.com/in/Sukanyeah"><img src="https://img.shields.io/badge/LinkedIn_%20-%230077b5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"></a><a href="https://twitter.com/Sukanyeah"><img src="https://img.shields.io/badge/twitter_%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"></a><a href="https://www.facebook.com/Sukanyeah"><img src="https://img.shields.io/badge/facebook_%20-%234267B2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"></a><a href="https://www.sukanyeah.com/"><img src="https://img.shields.io/badge/sukanyeah.com_%20-%23ff69b4.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white"></a><a href="https://www.instagram.com/Sukanyeah.Krishna"><img src="https://img.shields.io/badge/instagram_%20-%238a3ab9.svg?&style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
-![](https://sukanyeah.com/git)
+![](https://www.sukanyeah.com/git)
 
 <p>Data Science & Machine Learning | IIT Madras</p>
 <p>Web Developer from Bengaluru, India (⏱️ since 2012)</p>
