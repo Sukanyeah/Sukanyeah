@@ -29,9 +29,9 @@
 
 <h2> I'm currently ...</h2>
 
-- 🔭 coding automation projects & relaunching my personal website.
+- 🔭 coding automation projects.
 - 🌱 learning Vite & Kotlin (Both are SO COOL!)
 - 📚 Reading: **"Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World"**
-- 🎮 playing God of War Ragnarök 🔫, Horizon Forbidden West 🤖 CS:GO 🔫 and CODM 🧟
+- 🎮 playing F1 25🚗, BGMI 🔫, Horizon Forbidden West 🤖 CS:GO 🔫 and CODM 🧟
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sukanyeah&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=EB29AF&fire=EB5454&currStreakNum=EB3977&sideNums=EB3977&sideLabels=EB29AF&dates=EB29AF&currStreakLabel=EB29AF&excludeDaysLabel=EB5454&stroke=EB29AF)](https://www.sukanyeah.com/)
