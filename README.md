@@ -21,9 +21,7 @@
   <li><b>🖊️ Writes on: </b><a href="https://www.sukanyeah.in/">Sukanyeah.in</a></li>
 </ul>
 
-<p>I'm Sukanyeah Krishna, a Web Developer at the Esport.al Team, 
-  where I support gamers to build and grow their own communities through <a href="https://esport.al/unite">🚩 Esportal Gamers Unite Program</a>. I'm passionate about building opportunities for gamers, bridges
-   between different communities, and helping people from diverse backgrounds to code.
+<p>I'm Sukanyeah Krishna, a Web Developer at the Esport.al Team, where I support gamers to build and grow their own communities through <a href="https://esport.al/unite">🚩 Esportal Gamers Unite Program</a>. Passionate about building opportunities for gamers, bridges between different communities, and helping people from diverse backgrounds to code.
 </p>
 
 </div>
