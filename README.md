@@ -16,8 +16,9 @@
   <li><b>👧 Name: </b> Sukanyeah Krishna</li>
   <li><b>🌈 Pronouns:</b>  She/Her</li>
   <li><b>🧭 Location:</b> Bengaluru, 🇮🇳</li>
-  <li><b>💼 Creator: </b><a href="https://esportal.com/">Esport.al</a></li>
+  <li><b>💼 Creator: </b><a href="https://www.tiglord.com/">Tiglord</a>, <a href="https://esportal.com/">Esport.al</a></li>
   <li><b>📣 Languages:</b> English, Malayalam, Kannada, Tamil & Hindi</li>
+  <li><b>🖊️ Writes on: </b><a href="https://www.sukanyeah.in/">Sukanyeah.in</a></li>
 </ul>
 
 <p>I'm Sukanyeah Krishna, a Web Developer at the Esport.al Team, 
